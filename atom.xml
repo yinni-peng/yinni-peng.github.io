@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Luckyye blog</title>
   
-  <subtitle>Pursue the truly love and persist in...</subtitle>
+  <subtitle>pursue the truth and persist in it.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>叶鹏 (Peng Ye)</name>
+    <name>叶鹏</name>
     
   </author>
   
